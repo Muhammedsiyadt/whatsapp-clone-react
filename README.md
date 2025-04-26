@@ -5,7 +5,7 @@
 
 Clone the repository
 ```
-git clone https://github.com/John-Weeks-Dev/whatsapp-clone.git
+https://github.com/Muhammedsiyadt/whatsapp-clone-react.git
 ```
 
 Now go to https://console.cloud.google.com/
